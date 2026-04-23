@@ -1,6 +1,6 @@
 # Hi, I'm Devasheesh
 
-Engineering student focused on AI, Machine Learning, and Embedded Systems.
+Engineering student building real-world systems in AI, Machine Learning, and Embedded Systems, with projects spanning NLP, IoT pipelines, and robotics.
 
 ---
 
